@@ -3,12 +3,14 @@ import React from 'react';
 import { FaTasks } from "react-icons/fa";
 import { TbNotes } from "react-icons/tb";
 import { FaFolder } from "react-icons/fa";
+// import { GoContainer } from 'react-icons/go';
 
 
 
 const Sidebar = () => {
     return (
-        <div className=" flex-col bg-white border-s-1 w-15 h-screen items-center fixed right-0 top-[-13px]">
+       <div>
+        <div className=" flex-col bg-white border-s-1 shadow-lg border-l-2 w-16 h-screen items-center fixed right-0 top-[-20px]">
             <div className="flex flex-col items-center h-full space-y-8 opacity-100 mt-6">
 
             <div className=' items-center mr-1'>
@@ -54,6 +56,8 @@ const Sidebar = () => {
 
             </div>
         </div>
+        </div>
+        
     );
 };
 
