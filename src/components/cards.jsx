@@ -102,17 +102,6 @@ function Cards() {
         <img src='Frame 370.png' className='w-[256px] h-[270px] top-[230px] left-[290px] border-spacing-1 cursor-pointer' alt='logo' >
         </img>
         </div>
-
-
-
-
-        
-
-
-
-
-
-
          </div>
        </div>
   )

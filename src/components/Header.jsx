@@ -15,7 +15,6 @@ function Header() {
       <div className='items-center ml-[-152px]'>
         <button className='flex w-10 h-10 ml-8 opacity-85 items-center rounded-e-lg justify-center  bg-blue-600'><CiSearch  className="w-6 text-white h-6"/></button>
         
-        
 
       </div>  
      
